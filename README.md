@@ -1,1 +1,2 @@
 # Java8
+Developed a menu based application using java8 and new features. This application contains the covid data. The COVID data analysis menu based application is a java based software solution designed to provide users with the ability to analyze COVID data within specific time periods and geographical regions. This application leverages java's latest features to deliver a user friendly and efficient experience.
